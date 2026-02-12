@@ -1,0 +1,10 @@
+/* //src/components/OurPartner.css*/ 
+.partners-section {
+  background-color: #F7F8FA;
+  padding: 50px 0;
+}
+.partners-section img {
+  max-height: 200px;
+  max-width: 100%;
+  object-fit: contain;
+}

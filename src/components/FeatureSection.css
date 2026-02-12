@@ -1,0 +1,25 @@
+ img {
+  max-width: 100%;
+  height: auto;
+}
+
+h2 {
+  font-size: 2rem;
+}
+p.text-muted {
+    margin: 2px;
+    line-height: 5vh;
+}
+.h-cls{
+  height: 400px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+  display: none;
+}
+
+@media (max-width: 768px){
+  .h-cls{
+  height: 16rem;
+}
+}

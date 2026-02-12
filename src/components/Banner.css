@@ -1,0 +1,100 @@
+/* src/components/Banner.css */
+
+.my-5 {
+    margin-top: 0rem!important;
+    margin-bottom: 3rem!important;
+}
+.carousel img {
+  height: 400px;
+  object-fit: cover;
+}
+.carousel-indicators [data-bs-target] {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #ccc;
+  margin: 0 4px;
+  border: none;
+  transition: background-color 0.1s;
+}
+.carousel-indicators .active {
+  background-color: #77A28B;
+}
+.carousel img {
+  width: 100%;
+  height: auto; 
+  object-fit: cover;
+}
+.cursive-text {
+  font-family: 'system-ui';
+  font-size: 3rem;
+  color: #77A28B;
+}
+.carousel-caption {
+    bottom: 15%;
+    right: 45%;
+}
+p {
+    color: #626262;
+    /* margin-right: 54%; */
+}
+button:not(:disabled) {
+    cursor: pointer;
+    background-color: #77A28B;
+    margin-right: 58%;
+    border: none;
+    
+}
+.custom-font {
+  font-family: 'Brush Script MT', cursive; 
+  font-size: 2rem; 
+  font-weight: 600;
+  color: #77A28B;
+  margin: 27px;
+}
+
+
+@media (max-width: 768px) {
+  .carousel-caption h1 {
+    font-size: 2rem;
+  }
+
+  .carousel-caption p {
+    font-size: 1rem;
+  }
+  
+}
+
+@media (max-width: 576px) {
+
+.carousel-caption {
+    bottom: 4%;
+    right: 74px;
+    left: 0;
+    padding: 0px 10px;
+    gap: -35px;
+}
+
+  .carousel-caption h1 {
+    font-size: 1.5rem;
+  }
+
+  .carousel-caption p {
+    font-size: 0.9rem;
+    margin-right: 70px;
+  }
+
+  .carousel-caption button {
+    margin-right: 30%;
+    font-size: 0.5rem;
+    padding: 6px 12px;
+  }
+}
+
+@media (max-width: 768px){
+.carousel img {
+    width: 100%;
+    height: 14rem;
+    /* object-fit: cover; */
+}
+}

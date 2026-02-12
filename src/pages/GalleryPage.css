@@ -1,0 +1,12 @@
+.card-title {
+    margin-bottom: var(--bs-card-title-spacer-y);
+    color: var(--bs-card-title-color);
+    font-size: smaller;
+    height: 34px;
+    color: red;
+}
+.card-text:last-child {
+    margin-bottom: 0;
+    font-size: 11px;
+    color: black;
+}

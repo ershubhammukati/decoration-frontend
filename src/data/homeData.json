@@ -1,0 +1,40 @@
+[
+     {
+    "images": ["/assets/birthday3.jpg", "/assets/birthday4.jpg","/assets/birthday6.webp"],
+    "title": "Birthday Decoration",
+    "subtitle": "It's Birthday Party",
+"description": "Planning a birthday celebration? <strong><span class='text-danger'>Shri IG Decoration & Event Management</span></strong> designs vibrant and personalized decorations for any occasion. From colorful balloon arches to themed centerpieces, we bring your vision to life, creating an unforgettable atmosphere for your special day. Let us add that magical touch to your birthday party!",
+    "reverse": false
+  },
+  {
+    "images": ["/assets/haldi1.jpg", "/assets/haldi3.jpeg","/assets/haldi4.jpeg", "/assets/haldi5.webp","/assets/haldi5.webp"],
+    "title": "Haldi Decoration",
+    "description": "<strong><span class='text-warning'>Shri IG Decoration & Event Management</span></strong> brings vibrant charm to your Haldi celebration with personalized, traditional-meets-modern decor. From marigold-inspired floral setups to colorful Haldi backdrops, we create joyful, picture-perfect settings that honor tradition and add festive flair. Let us make your Haldi ceremony glow with unforgettable beauty!",
+    "reverse": true
+  },
+  {
+  "images": ["/assets/m1(1).webp", "/assets/m3.jpg", "/assets/m4.webp","/assets/m5(1).jpg","/assets/m6(1).webp"],
+  "title": "Mehndi Decoration",
+  "description": "<strong><span class='text-success'>Shri IG Decoration & Event Management</span></strong> creates colorful and festive Mehndi decor that blends traditional elegance with vibrant hues. From floral mandaps and drapes to intricate rangoli designs, we craft joyful settings that celebrate culture and add charm to your pre-wedding festivities. Let us bring your Mehndi ceremony to life with unforgettable style!",
+  "reverse": false
+},
+  {
+    "images": ["/assets/slider 1.png", "/assets/Property 1=Variant2.png"],
+    "title": "Seasonal Decoration",
+    "subtitle": "It's Christmas",
+    "description": "<strong><span class='text-primary'>Shri IG Decoration & Event Management</span></strong> brings the festive magic of Christmas to life with stunning seasonal decor tailored to your space. From twinkling lights and classic wreaths to themed table settings and cozy holiday vibes, we transform your venue into a winter wonderland. Let us make your Christmas celebration warm, joyful, and truly unforgettable!",
+    "reverse": true
+  },
+  {
+    "images": ["/assets/slider2.1.png", "/assets/slider2.2.png", "/assets/slider2.3.png", "/assets/slider2.4.png"],
+    "title": "Balloons Decoration",
+    "description": "<strong><span class='text-info'>Shri IG Decoration & Event Management</span></strong> specializes in eye-catching balloon decorations that add color, fun, and excitement to any celebration. From elegant balloon arches and garlands to custom-themed setups and centerpieces, we design vibrant displays that bring your event to life. Let us elevate your party with the charm and joy of creative balloon decor!",
+    "reverse": false
+  },
+  {
+    "images": ["/assets/slider3.1.png", "/assets/slider3.2.png", "/assets/slider3.3.png", "/assets/slider3.4.png"],
+    "title": "Event Decoration",
+    "description": "<strong><span class='text-primary'>Shri IG Decoration & Event Management</span></strong> offers bespoke event decoration services that turn any occasion into a memorable experience. Whether it's a wedding, corporate gathering, birthday, or cultural event, we design elegant and personalized setups to match your theme and vision. Let us create a stunning atmosphere that leaves a lasting impression on your guests!",
+    "reverse": true
+  }
+]

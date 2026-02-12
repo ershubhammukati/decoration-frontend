@@ -1,0 +1,16 @@
+/* src/components/ContactForm.css */
+.contact-heading {
+  color: #28a745;
+  font-weight: 600;
+  font-size: 28px;
+}
+
+button.btn-success {
+  background-color: #28a745 !important; 
+  border-color: #28a745 !important; 
+}
+
+button.btn-success:disabled {
+  background-color: #d6e8d5 !important; 
+  border-color: #d6e8d5 !important;
+}

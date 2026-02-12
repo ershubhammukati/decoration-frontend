@@ -1,0 +1,33 @@
+/* src/components/ClientTestimonials.css */
+
+.client-img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border: 3px solid #77A28B;
+}
+.slick-slide > div {
+  display: flex;
+  justify-content: center;
+}
+.divider-with-icon {
+  position: relative;
+  width: 150px;
+  height: 1px;
+  background-color: #db7b0c;
+
+}
+
+.divider-with-icon::before {
+  content: "❤️";
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #fff; 
+  padding: 0 6px;
+  font-size: 1.2rem;
+}
+
+
+
